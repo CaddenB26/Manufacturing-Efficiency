@@ -23,16 +23,22 @@ R-Studio Manufacturing Efficiency
 <b></b>https://github.com/CaddenB26/Manufacturing-Efficiency/blob/aba16bf0dfa7e06680a12aa2e49508282adbee30/DAT-475%20Project%202.docx
 <br />
 <br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm.png" />
+<img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm1.png" />
+<img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing1.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm2.png" />
+<img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing2.png" />
 <br />
 <br />
-<img src="https://github.com/CaddenB26/Storm-Data/blob/28e68e4bf777cd576dad0b7a994f14439ec1d75d/Storm3.png" />
+<img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing3.png" />
+<br />
+<br />
+  <img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing4.png" />
+<br />
+<br />
+<img src="https://github.com/CaddenB26/Manufacturing-Efficiency/blob/cd660ec731c7252a0ff532fa699703943692dc4f/Manufacturing5.png" />
 <br />
 <br />
 <p/>
